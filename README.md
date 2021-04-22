@@ -1,8 +1,9 @@
 # mystical-horoscope
 
 
-Welcome to my Mystical Horoscope! Enter your birth date to discovery your traits and what your future holds.
-![Mystical Horoscope](background2.jpg)
+Welcome to my Mystical Horoscope! Enter your birth date to discovery your traits and what your future holds. Find deployed version [here](https://hopeful-noether-0f4841.netlify.app/).
+
+![Mystical Horoscope](background2.jpg).
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript, and MongoDB
